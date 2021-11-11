@@ -9,8 +9,12 @@ It is a Kaggle competition held by Severstal. Data is available at https://www.k
 
 # 3. Data Overview
 train_images/ - folder with 12568 .jpg training images.
+
 test_images/ - folder with 5516 .jpg test images (we are segmenting and classifying these images).
+
 train.csv - training annotations which provide segments for defects with total 4 defect classes (ClassId=[1,2,3,4]).
+
 sample_submission.csv - a sample submission file in the correct format (for each ImageId 4 rows, one for each of the 4 defect classes).
+
 Each image is of 256x1600 resolution
 
