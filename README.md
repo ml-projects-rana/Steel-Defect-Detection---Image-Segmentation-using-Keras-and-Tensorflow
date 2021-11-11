@@ -18,3 +18,6 @@ sample_submission.csv - a sample submission file in the correct format (for 
 
 Each image is of 256x1600 resolution
 
+
+# Check the complete blog on this project
+https://dipanshurana.medium.com/steel-defect-detection-image-segmentation-using-keras-and-tensorflow-6118bc586ad2
